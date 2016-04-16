@@ -18,7 +18,7 @@ I should state up-front that I'm a tall white male and these experiences have be
 - [x] Subcultures/Appearances (e.g. goth, kandi kid)
 - [x] Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)
 - [x] City differences (e.g. smoking, distance)
-- [ ] Personal notes (e.g. photos, compliments)
+- [x] Personal notes (e.g. photos, compliments)
 - [ ] Deep knowledge
     - People
         - Inbound - Promoters, boards, artists/DJs
@@ -135,6 +135,16 @@ Every city is different, here are some experiences I have gone through:
 - In Mexico, some songs make people transition into partner dancing
 - In Japan, people give you space to dance (no crowding like the US)
 - In some venues, the staff might not speak your language =X
+
+## Personal notes
+Since not everyone might want to be a dancer like me, I want to throw out some notes that people usually get surprised about.
+
+- At a nightclub, I usually receive 1-2 compliments a night
+    - On rare occasions, I have heard up to 5-6
+- In some venues, other attendees will ask for a photo with me. I have never not obliged. I have never seen any of those photos.
+    - Recently, this has happened once every 3 times I go out
+    - When I was in Mexico, this happened about 4 times in a night
+    - Similarly, people may start recording me
 
 ## Further information
 ### Movies
