@@ -147,7 +147,7 @@ There are a lot of moving parts in a modern nightclub:
 - Venue - People that help the nightclub machine move
     - Bouncer - Determine who enters as well as mitigates problems within the venue
     - Entry clerk - Person who takes your entry fee
-    - Coat clerk - Optional (requires coat check), person who stores your coat for a nominal fee
+    - Coat clerk - Optional (depends on venue), person who stores your coat for a nominal fee
     - Bathroom clerk - Optional (typically depends on city), person who works the sink in the bathroom (e.g. offers soap and paper towels)
     - Performer - Optional (depends on venue), person who puts on a show for the crowd
         - This can be ongoing (e.g. dancer has a spot that they dance in for a while, then take a break, and return later)
@@ -163,11 +163,12 @@ There are a lot of moving parts in a modern nightclub:
 ### Bartender attention and tippping
 Getting a bartender's attention can be tricky. Here are some notes:
 
-- Be close enough to the bartender that they will see you (i.e. not at opposite ends of the bar)
+- Be close enough to the bartender that they will see you (i.e. not at the opposite end of the bar)
 - Be nice to bartender since they took time to serve you, always tip even for water
     - This will also help reduce serving time in the future as they know you tip
     - Free drink guide (never tried): https://www.youtube.com/watch?v=cLNJjUuDLDM
-- I usually keep my positioning with at least 1 hand on the counter
+- For positioning, the goal is to be visible and clear to the bartender
+    - I usually keep at least 1 hand on the counter
     - Ideally I'm square to the bar with both hands on the counter
     - I remember a joke video of different technique to wave money at a bartender
         - But don't wave money at the bartender, it's rude https://www.youtube.com/watch?v=Kn8w441BoTw
@@ -175,7 +176,8 @@ Getting a bartender's attention can be tricky. Here are some notes:
 ### Cash vs credit
 Cash and credit have their own set of trade-offs. I typically prefer cash since it's simpler:
 
-- Cash requires time upfront from bartender
+- Cash requires time upfront from bartender to retrieve change
+    - Try to always have a few singles when you go out
 - Credit card can be forgotten at the bar
 - Credit card can have minimum charge
 - Credit card can take long time to retrieve at last call
@@ -183,16 +185,19 @@ Cash and credit have their own set of trade-offs. I typically prefer cash since 
 ## Personal notes
 Since not everyone might want to be a dancer like me, I want to throw out some notes that people usually get surprised about.
 
+I would say that I'm a good but not amazing dancer.
+
 - At a nightclub, I usually receive 1-2 compliments a night
-    - On rare occasions, I have heard up to 5-6
-- In some venues, other attendees will ask for a photo with me. I have never not obliged. I have never seen any of those photos.
-    - Recently, this has happened once every 3 times I go out
+    - On rare occasions, I have received up to 5-6
+- In some venues, other attendees will ask for a photo with me. I have always obliged. I have never seen any of those photos.
+    - In the past year, this has happened once every 3 times I go out at an average nightclub
+        - It's much more infrequent at an underground
     - When I was in Mexico, this happened about 4 times in a night
-    - Similarly, people may start recording me
+    - Similarly, people may start recording me dancing. I never see those either
 
 ## Further information
 ### Movies
-These movies should not be considered as rules/all-knowing but perspectives as what other people have experienced. Take them with a grain of salt.
+Here's are some movies I have enjoyed watching later on in my progression. They should not be considered as rules/all-knowing but perspectives as what other people have experienced. Take them with a grain of salt.
 
 - [The Boys & Girls Guide to Getting Down](http://www.imdb.com/title/tt0464907/)
     - Satirical movie that covers club life
