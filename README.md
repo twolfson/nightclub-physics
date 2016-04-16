@@ -16,6 +16,13 @@ I should state up-front that I'm a white male and these experiences have been du
 - [ ] Subcultures/Appearances (e.g. goth, kandi kid)
 - [ ] Undergrounds and you (e.g. info lines, TBA/TBD)
 - [ ] City differences (e.g. smoking, distance)
+- [ ] Deep knowledge
+    - People
+        - Inbound - Promoters, boards, artists/DJs
+        - Venue - Bouncer, entry clerk, coat clerk, bartender, bar-back, servers, attendees, bathroom clerk
+    - Bartender attention and tippping
+        - Be nice to bartender since they took time to serve you, always tip even for water
+        - Free drink guide (never tried) https://www.youtube.com/watch?v=cLNJjUuDLDM
 
 ## Behaviors
 Over time people pick up behaviors, either out of habit or observation. These are common ones that you will notice.
