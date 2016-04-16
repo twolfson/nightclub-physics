@@ -9,7 +9,7 @@ At the time of writing, I've been dancing on the US East Coast, US West Coast, I
 
 There's a lot of details that you slowly pick up over time. This is my brain dump of that information.
 
-I should state up-front that I'm a tall white male and these experiences have been during my early to mid-20's. Your experiences/observations may vary and please read this with a grain of salt.
+I should state up-front that I'm a tall white male and these experiences have been during my early to mid-20's. Your experiences/observations may vary so please read this with a grain of salt.
 
 ## Topics to cover
 - [x] Behaviors (e.g. salmon, circles, finding space/traps)
