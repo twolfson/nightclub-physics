@@ -95,7 +95,7 @@ Here's my short list of event/venue types:
 - Rave - An underground specialized to ravers (e.g. electronic music, [kandi kids](#kandi-kids))
 - After-hours - Underground that's typically a bar and serves alcohol after legally required close time
 
-In my experience, most cities have at least 1 type of the non-nightclub events. The main restriction for you is how good you are at searching/networking.
+In my experience, most cities have at least 1 type of the non-nightclub events. The main restriction for finding them is how good you are at searching/networking.
 
 If you are new to undergrounds/raves, the mechanics of getting to the venue can feel strange at first so the following notes are to walk you through the motions.
 
