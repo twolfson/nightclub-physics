@@ -89,6 +89,19 @@ My rule of thumb for traps is only move to them if there's at least 1.5x the amo
 
 ![Illustration of traps](https://rawgit.com/twolfson/nightclub-physics/master/images/trap.svg)
 
+## Subcultures/Appearances
+Depending on your city and venue, you may encounter subcultures that you haven't seen before. This is not meant to be an all-encompassing list but is highlights from my experience.
+
+### Goth
+Dark clothing and distinct music. Usually found at a venue catered to this subculture.
+
+![Photo of goths](images/external/goth.jpg)
+
+### Kandi kids
+A raver who wears plastic jewelry (aka kandi).
+
+![Photo of kandi kids](images/external/kandi-kid.jpg)
+
 ## Further information
 ### Movies
 These movies should not be considered as rules/all-knowing but perspectives as what other people have experienced. Take them with a grain of salt.
