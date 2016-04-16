@@ -86,7 +86,7 @@ One nuance I want to mention is traps. These are almost open spaces that can be 
 
 My rule of thumb for traps is only move to them if there's at least 1.5x the amount of space that I want.
 
-// TODO: Add image
+![Illustration of traps](https://rawgit.com/twolfson/nightclub-physics/master/images/trap.svg)
 
 ## Further information
 ### Movies
