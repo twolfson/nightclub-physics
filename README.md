@@ -17,6 +17,41 @@ I should state up-front that I'm a white male and these experiences have been du
 - [ ] Undergrounds and you (e.g. info lines, TBA/TBD)
 - [ ] City differences (e.g. smoking, distance)
 
+## Behaviors
+Over time people pick up behaviors, either out of habit or observation. These are common ones that you will notice.
+
+### Salmon
+A salmon is someone who pushes past other people to get to the front of the crowd, only to immediately rush to the back with more pushing/shoving.
+
+I know I came across this definition somewhere but have no recollection where.
+
+I should note that you could also be standing/dancing in a through-way, which is a valid spot, but the people walking past you are not salmon. If you dance in this spot, then please move/dance out of the way so there is no blockage.
+
+### Circles
+Dance circles are probably the most common occurrence you will see. These are when people clear out space and 1 or 2 persons dance in the center for a song or less.
+
+// TODO: Add graphic
+
+**How they are formed:**
+
+I have seen circles formed in 2 ways:
+
+- Someone starts dancing really good, others start looking/moving back, and eventually there's enough padding that a circle has formed
+- Someone (usually drunk) sees a good dancer and starts pushing people back/drawing attention to the dancer
+    - These ones usually don't last very long
+
+**How they work:**
+
+People on the outside look in and watch the dancer in the center. You can dance on the outside but don't go all out; have respect for the dancer in the circle.
+
+When the person out of the center, another dancer can replace them.
+
+If you have already danced before, you can re-enter the circle but don't hog the circle (you will probably get tired as is).
+
+**How they end:**
+
+When people stop re-entering the circle, there's usually a pause. Then everyone starts dancing and the circle collapses.
+
 ## Further information
 ### Movies
 These movies should not be considered as rules/all-knowing but perspectives as what other people have experienced. Take them with a grain of salt.
