@@ -36,6 +36,13 @@ I know I came across this definition somewhere but have no recollection where.
 
 I should note that you could also be standing/dancing in a through-way, which is a valid spot, but the people walking past you are not salmon. If you dance in this spot, then please move/dance out of the way so there is no blockage.
 
+### Statue
+A statue is someone who stands still on the dancefloor.
+
+As a dancer, it's extremely frustrating since we are usually struggling to find space.
+
+I have no idea why this behavior occurs but it does =(
+
 ### Circles
 Dance circles are probably the most common occurrence you will see. These are when people clear out space and 1 or 2 persons dance in the center for a song or less.
 
