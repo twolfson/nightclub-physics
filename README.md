@@ -152,13 +152,16 @@ There are a lot of moving parts in a modern nightclub:
     - Bouncer - Determine who enters as well as mitigates events within the venue
     - Entry clerk - Person who takes your entry fee
     - Coat clerk - Optional (requires coat check), person who stores your coat for a nominal fee
+    - Bathroom clerk - Optional (typically depends on city), person who works the sink in the bathroom (e.g. offers soap and paper towels)
+    - Performer - Optional (depends on venue), person who puts on a show for the crowd
+        - This can be ongoing (e.g. dancer has a spot that they dance in for a while, then take a break, and return later)
+        - Or it can be one-time (e.g. aerialist performs a set)
     - Bartender - Person serving you drinks
     - Bar-back - Person who cleans glasses and restocks bottles
         - This person has no customer/attendee interaction
         - In Mexico, I saw this broken down into people who took orders and people who made drinks. It was very efficient
     - Servers - People who serve tables
     - Attendees - People attending the nightclub
-    - Bathroom clerk - Optional (typically depends on city), person who works the sink in the bathroom (e.g. offers soap and paper towels)
 
 ### Bartender attention and tippping
 Getting a bartender's attention can be tricky. Here are some notes:
