@@ -17,8 +17,8 @@ I should state up-front that I'm a tall white male and these experiences have be
 - [x] Behaviors (e.g. salmon, circles, finding space/traps)
 - [x] Subcultures/Appearances (e.g. goth, kandi kid)
 - [x] Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)
+- [x] City differences (e.g. smoking, distance)
 - [ ] Personal notes (e.g. photos, compliments)
-- [ ] City differences (e.g. smoking, distance)
 - [ ] Deep knowledge
     - People
         - Inbound - Promoters, boards, artists/DJs
@@ -125,6 +125,16 @@ Some events might say TBA/TBD. This can play out in a few ways:
 - Organizer sends event info to ticket holders
 - Nothing happens
     - This scenario is rare but have a backup event if this is the first time you are using this promoter
+
+## City differences
+Every city is different, here are some experiences I have gone through:
+
+- Trains stop running after a certain hour (need to find alternative transit)
+- In Japan and Mexico, people can smoke in the club
+- In Japan, people arrive at 1:00-1:30AM (when the trains stop running) and stay until 5:00-6:00AM (when the trains start running)
+- In Mexico, some songs make people transition into partner dancing
+- In Japan, people give you space to dance (no crowding like the US)
+- In some venues, the staff might not speak your language =X
 
 ## Further information
 ### Movies
