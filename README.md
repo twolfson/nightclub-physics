@@ -1,8 +1,6 @@
-# Nightclub Physics
-Writings about nightclubs and rave mechanics by an experienced dancer
-
 <!-- We need to use an absolute external URL for SVGs -->
-![Illustration of a nightclub](https://rawgit.com/twolfson/nightclub-physics/master/images/header.svg)
+# ![Nightclub Physics](https://rawgit.com/twolfson/nightclub-physics/master/images/header.svg)
+Writings about nightclubs and rave mechanics by an experienced dancer
 
 ## Background
 I, Todd Wolfson, am a programmer by career and dancer (freeform) by hobby. I've been dancing and going to nightclubs regularly since 2009.
