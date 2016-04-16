@@ -19,13 +19,7 @@ I should state up-front that I'm a tall white male and these experiences have be
 - [x] Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)
 - [x] City differences (e.g. smoking, distance)
 - [x] Personal notes (e.g. photos, compliments)
-- [ ] Deep knowledge
-    - People
-        - Inbound - Promoters, boards, artists/DJs
-        - Venue - Bouncer, entry clerk, coat clerk, bartender, bar-back, servers, attendees, bathroom clerk
-    - Bartender attention and tippping
-        - Be nice to bartender since they took time to serve you, always tip even for water
-        - Free drink guide (never tried) https://www.youtube.com/watch?v=cLNJjUuDLDM
+- [x] Deep knowledge (e.g. staff, tipping)
 
 ## Behaviors
 Over time people pick up behaviors, either out of habit or observation. These are common ones that you will notice.
@@ -145,6 +139,48 @@ Since not everyone might want to be a dancer like me, I want to throw out some n
     - Recently, this has happened once every 3 times I go out
     - When I was in Mexico, this happened about 4 times in a night
     - Similarly, people may start recording me
+
+## Deep knowledge
+This section is intended to cover boring material, feel free to skip it.
+
+### People
+There are a lot of moving parts in a modern nightclub:
+
+- Inbound - People that get you into the nightclub
+    - Promoters - People that post to boards and promote in-person
+    - Boards/Newsletters - Physical and electronic places to receive event information
+    - Artists/DJs - People that will be playing or attending the event that have a high profile
+- Venue - People that help the nightclub machine move
+    - Bouncer - Determine who enters as well as mitigates events within the venue
+    - Entry clerk - Person who takes your entry fee
+    - Coat clerk - Optional (requires coat check), person who stores your coat for a nominal fee
+    - Bartender - Person serving you drinks
+    - Bar-back - Person who cleans glasses and restocks bottles
+        - This person has no customer/attendee interaction
+        - In Mexico, I saw this broken down into people who took orders and people who made drinks. It was very efficient
+    - Servers - People who serve tables
+    - Attendees - People attending the nightclub
+    - Bathroom clerk - Optional (typically depends on city), person who works the sink in the bathroom (e.g. offers soap and paper towels)
+
+### Bartender attention and tippping
+Getting a bartender's attention can be tricky. Here are some notes:
+
+- Be close enough to the bartender that they will see you (i.e. not at opposite ends of the bar)
+- Be nice to bartender since they took time to serve you, always tip even for water
+    - This will also help reduce serving time in the future as they know you tip
+    - Free drink guide (never tried): https://www.youtube.com/watch?v=cLNJjUuDLDM
+- I usually keep my positioning with at least 1 hand on the counter
+    - Ideally I'm square to the bar with both hands on the counter
+    - I remember a joke video of different technique to wave money at a bartender
+        - But don't wave money at the bartender, it's rude https://www.youtube.com/watch?v=Kn8w441BoTw
+
+### Cash vs credit
+Cash and credit have their own set of trade-offs. I typically prefer cash since it's simpler:
+
+- Cash requires time upfront from bartender
+- Credit card can be forgotten at the bar
+- Credit card can have minimum charge
+- Credit card can take long time to retrieve at last call
 
 ## Further information
 ### Movies
