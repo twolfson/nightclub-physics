@@ -152,6 +152,8 @@ There are a lot of moving parts in a modern nightclub:
     - Performer - Optional (depends on venue), person who puts on a show for the crowd
         - This can be ongoing (e.g. dancer has a spot that they dance in for a while, then take a break, and return later)
         - Or it can be one-time (e.g. aerialist performs a set)
+    - Photographer - Optional (depends on event/venue), person who takes photographs for the venue
+        - The photos typically get posted to the event page or venue page
     - Bartender - Person serving you drinks
     - Bar-back - Person who cleans glasses and restocks bottles
         - This person has no customer/attendee interaction
