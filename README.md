@@ -104,7 +104,7 @@ If the event says to call a number, that number is known as an info line. It's a
 When the number becomes available, call it and a recording will tell you when and where the event is.
 
 ### TBA/TBD
-Some events might say TBA/TBD. This can play out in a few ways:
+Some events might say TBA/TBD for the location. This can play out in a few ways:
 
 - Organizer updated event page slightly before event with location (or info line)
 - Organizer sends event info to ticket holders
@@ -115,12 +115,12 @@ Some events might say TBA/TBD. This can play out in a few ways:
 Depending on your city and venue, you may encounter subcultures that you haven't seen before. This is not meant to be an all-encompassing list but is highlights from my experience.
 
 ### Goth
-Dark clothing and dark hair. Usually found at a venue catered to this subculture.
+Dark clothing and dark hair. Usually found at a venue/event catered to this subculture (e.g. goth nightclub, goth event).
 
 ![Photo of goths](images/external/goth.jpg)
 
 ### Kandi kids
-A raver who wears plastic jewelry (aka kandi). Usually found at an event/venue catered to this subculture.
+A raver who wears plastic jewelry (aka kandi). Usually found at a rave event.
 
 ![Photo of kandi kids](images/external/kandi-kid.jpg)
 
