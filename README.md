@@ -13,8 +13,8 @@ I should state up-front that I'm a tall white male and these experiences have be
 
 ## Table of Contents
 - [Behaviors (e.g. salmon, circles, finding space/traps)](#behaviors)
-- [Subcultures/Appearances (e.g. goth, kandi kid)](#subculturesappearances)
 - [Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)](#undergrounds-raves-and-after-hours)
+- [Subcultures/Appearances (e.g. goth, kandi kid)](#subculturesappearances)
 - [City differences (e.g. smoking, distance)](#city-differences)
 - [Personal notes (e.g. photos, compliments)](#personal-notes)
 - [Deep knowledge (e.g. staff, tipping)](#deep-knowledge)
@@ -81,21 +81,6 @@ My rule of thumb for traps is only move to them if there's at least 1.5x the amo
 
 ![Illustration of traps](https://rawgit.com/twolfson/nightclub-physics/master/images/trap.svg)
 
-## Subcultures/Appearances
-Depending on your city and venue, you may encounter subcultures that you haven't seen before. This is not meant to be an all-encompassing list but is highlights from my experience.
-
-### Goth
-Dark clothing and dark hair. Usually found at a venue catered to this subculture.
-
-![Photo of goths](images/external/goth.jpg)
-
-### Kandi kids
-A raver who wears plastic jewelry (aka kandi). Usually found at an event/venue catered to this subculture.
-
-![Photo of kandi kids](images/external/kandi-kid.jpg)
-
-Image attribution: [images/external/sources.txt](images/external/sources.txt)
-
 ## Undergrounds, raves, and after-hours
 Some parties like to be exclusive. This can be for a variety of reasons (e.g. keeping attendance low, not allowed to serve after a specific time).
 
@@ -117,6 +102,21 @@ Some events might say TBA/TBD. This can play out in a few ways:
 - Organizer sends event info to ticket holders
 - Nothing happens
     - This scenario is rare but have a backup event if this is the first time you are using this promoter
+
+## Subcultures/Appearances
+Depending on your city and venue, you may encounter subcultures that you haven't seen before. This is not meant to be an all-encompassing list but is highlights from my experience.
+
+### Goth
+Dark clothing and dark hair. Usually found at a venue catered to this subculture.
+
+![Photo of goths](images/external/goth.jpg)
+
+### Kandi kids
+A raver who wears plastic jewelry (aka kandi). Usually found at an event/venue catered to this subculture.
+
+![Photo of kandi kids](images/external/kandi-kid.jpg)
+
+Image attribution: [images/external/sources.txt](images/external/sources.txt)
 
 ## City differences
 Every city is different, here are some experiences I have gone through:
