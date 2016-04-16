@@ -84,14 +84,22 @@ My rule of thumb for traps is only move to them if there's at least 1.5x the amo
 ## Undergrounds, raves, and after-hours
 Some parties like to be exclusive. This can be for a variety of reasons (e.g. keeping attendance low, not allowed to serve after a specific time).
 
-I should note that these events are typically open secrets (i.e. people who need to know about these already do).
+I should note that the existence of these events are typically open secrets, although not always the event itself (e.g. police might know of a rave scene but no idea where it is).
 
-In my experience, most cities have them and the main restriction is how good you are at searching.
+Here's my short list of event/venue types:
 
-The mechanics of getting to the venue can feel strange at first so this is to walk you through the motions.
+- Nightclub - Publicly known/registered venue for dancing to take place
+- Underground - Event that is hidden at a secret location
+    - These typically change locations regularly to keep police on their toes
+- Rave - An underground specialized to ravers (e.g. electronic music, [kandi kids](#kandi-kids))
+- After-hours - Underground that's typically a bar and serves alcohol after legally required close time
+
+In my experience, most cities have at least 1 type of the non-nightclub events. The main restriction for you is how good you are at searching/networking.
+
+If you are new to undergrounds/raves, the mechanics of getting to the venue can feel strange at first so the following notes are to walk you through the motions.
 
 ### Info lines
-If the event says to call a number, then that number is known as an info line. It's a temporary phone number the event organizer to set up communicating the address.
+If the event says to call a number, that number is known as an info line. It's a temporary phone number the event organizer to set up communicating the address.
 
 When the number becomes available, call it and a recording will tell you when and where the event is.
 
