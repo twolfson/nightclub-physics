@@ -11,13 +11,13 @@ There's a lot of details that you slowly pick up over time. This is my brain dum
 
 I should state up-front that I'm a tall white male and these experiences have been during my early to mid-20's. Your experiences/observations may vary so please read this with a grain of salt.
 
-## Topics to cover
-- [x] Behaviors (e.g. salmon, circles, finding space/traps)
-- [x] Subcultures/Appearances (e.g. goth, kandi kid)
-- [x] Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)
-- [x] City differences (e.g. smoking, distance)
-- [x] Personal notes (e.g. photos, compliments)
-- [x] Deep knowledge (e.g. staff, tipping)
+## Table of Contents
+- [Behaviors (e.g. salmon, circles, finding space/traps)](#behaviors)
+- [Subcultures/Appearances (e.g. goth, kandi kid)](#subculturesappearances)
+- [Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)](#undergrounds-raves-and-after-hours)
+- [City differences (e.g. smoking, distance)](#city-differences)
+- [Personal notes (e.g. photos, compliments)](#personal-notes)
+- [Deep knowledge (e.g. staff, tipping)](#deep-knowledge)
 
 ## Behaviors
 Over time people pick up behaviors, either out of habit or observation. These are common ones that you will notice.
