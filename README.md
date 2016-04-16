@@ -93,14 +93,16 @@ My rule of thumb for traps is only move to them if there's at least 1.5x the amo
 Depending on your city and venue, you may encounter subcultures that you haven't seen before. This is not meant to be an all-encompassing list but is highlights from my experience.
 
 ### Goth
-Dark clothing and distinct music. Usually found at a venue catered to this subculture.
+Dark clothing and dark hair. Usually found at a venue catered to this subculture.
 
 ![Photo of goths](images/external/goth.jpg)
 
 ### Kandi kids
-A raver who wears plastic jewelry (aka kandi).
+A raver who wears plastic jewelry (aka kandi). Usually found at an event/venue catered to this subculture.
 
 ![Photo of kandi kids](images/external/kandi-kid.jpg)
+
+Image attribution: [images/external/sources.txt](images/external/sources.txt)
 
 ## Further information
 ### Movies
