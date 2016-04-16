@@ -5,7 +5,9 @@ Writings about nightclubs and rave mechanics by an experienced dancer
 ![Illustration of a nightclub](https://rawgit.com/twolfson/nightclub-physics/master/images/header.svg)
 
 ## Background
-I, Todd Wolfson, am a programmer by career and dancer (freeform) by hobby. I've been dancing and going to nightclubs regularly since 2009. At the time of writing, I've been dancing on the US East Coast, US West Coast, Israel, Mexico, Japan, and the US Mid-west.
+I, Todd Wolfson, am a programmer by career and dancer (freeform) by hobby. I've been dancing and going to nightclubs regularly since 2009.
+
+At the time of writing, I've been dancing on the US East Coast, US West Coast, Israel, Mexico, Japan, and the US Mid-west.
 
 There's a lot of details that you slowly pick up over time. This is my brain dump of that information.
 
