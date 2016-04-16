@@ -72,7 +72,7 @@ When people stop re-entering the circle, there's usually a pause. Then everyone 
 Finding space to dance can be finnicky. There are a few things that impact dancefloor density:
 
 - Time, usually every city as a "peak" when the club is most packed
-    - The dancefloor will be less packaged before/after peak
+    - The dancefloor will be less packged before/after peak
     - For example, in Chicago peak is usually from midnight to 1:30AM. However, this can vary between venues (e.g. different closing times) and definitely varies between cities
 - Artist/DJ, crowds usually have a shared taste so people will go get drinks/smoke if they aren't digging a set
 - Location, typically the sides and back of a dancefloor are least crowded
@@ -80,7 +80,7 @@ Finding space to dance can be finnicky. There are a few things that impact dance
 
 Due to my height, I can usually see openings through people or with a hop/jump.
 
-// TODO: Add image
+![Illustration of nightclub with space highlighted](https://rawgit.com/twolfson/nightclub-physics/master/images/finding-space.svg)
 
 One nuance I want to mention is traps. These are almost open spaces that can be found in the middle of the dancefloor. Unfortunately, they can sometimes collapse quickly and you will be left with virtually no space.
 
