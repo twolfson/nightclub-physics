@@ -15,8 +15,8 @@ I should state up-front that I'm a tall white male and these experiences have be
 
 ## Topics to cover
 - [x] Behaviors (e.g. salmon, circles, finding space/traps)
-- [ ] Subcultures/Appearances (e.g. goth, kandi kid)
-- [ ] Undergrounds and you (e.g. info lines, TBA/TBD)
+- [x] Subcultures/Appearances (e.g. goth, kandi kid)
+- [x] Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)
 - [ ] Personal notes (e.g. photos, compliments)
 - [ ] City differences (e.g. smoking, distance)
 - [ ] Deep knowledge
@@ -103,6 +103,28 @@ A raver who wears plastic jewelry (aka kandi). Usually found at an event/venue c
 ![Photo of kandi kids](images/external/kandi-kid.jpg)
 
 Image attribution: [images/external/sources.txt](images/external/sources.txt)
+
+## Undergrounds, raves, and after-hours
+Some parties like to be exclusive. This can be for a variety of reasons (e.g. keeping attendance low, not allowed to serve after a specific time).
+
+I should note that these events are typically open secrets (i.e. people who need to know about these already do).
+
+In my experience, most cities have them and the main restriction is how good you are at searching.
+
+The mechanics of getting to the venue can feel strange at first so this is to walk you through the motions.
+
+### Info lines
+If the event says to call a number, then that number is known as an info line. It's a temporary phone number the event organizer to set up communicating the address.
+
+When the number becomes available, call it and a recording will tell you when and where the event is.
+
+### TBA/TBD
+Some events might say TBA/TBD. This can play out in a few ways:
+
+- Organizer updated event page slightly before event with location (or info line)
+- Organizer sends event info to ticket holders
+- Nothing happens
+    - This scenario is rare but have a backup event if this is the first time you are using this promoter
 
 ## Further information
 ### Movies
