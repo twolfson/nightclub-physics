@@ -17,6 +17,7 @@ I should state up-front that I'm a tall white male and these experiences have be
 - [x] Behaviors (e.g. salmon, circles, finding space/traps)
 - [ ] Subcultures/Appearances (e.g. goth, kandi kid)
 - [ ] Undergrounds and you (e.g. info lines, TBA/TBD)
+- [ ] Personal notes (e.g. photos, compliments)
 - [ ] City differences (e.g. smoking, distance)
 - [ ] Deep knowledge
     - People
