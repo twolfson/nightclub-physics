@@ -16,8 +16,9 @@ I should state up-front that I'm a tall white male and these experiences have be
 - [Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)](#undergrounds-raves-and-after-hours)
 - [Subcultures/Appearances (e.g. goth, kandi kid)](#subculturesappearances)
 - [City differences (e.g. smoking, distance)](#city-differences)
+- [Staff (e.g. bouncer, bartender, performer)](#staff)
+- [Etiquette (e.g. bartender attention, tipping)](#etiquette)
 - [Personal notes (e.g. photos, compliments)](#personal-notes)
-- [Deep knowledge (e.g. staff, tipping)](#deep-knowledge)
 
 ## Behaviors
 Over time nightclub attendees pick up social behaviors, either out of habit or observation. These are common ones that you will notice.
@@ -129,27 +130,14 @@ Image attribution: [images/external/sources.txt](images/external/sources.txt)
 ## City differences
 Every city is different, here are some experiences I have gone through:
 
-- Trains stop running after a certain hour (need to find alternative transit)
+- In some cities, trains stop running after a certain hour (you will need to find alternative transit for returning home)
 - In Japan and Mexico, people can smoke in the club
 - In Japan, people arrive at 1:00-1:30AM (when the trains stop running) and stay until 5:00-6:00AM (when the trains start running)
 - In Mexico, some songs make people transition into partner dancing
 - In Japan, people give you space to dance (no crowding like the US)
 - In some venues, the staff might not speak your language =X
 
-## Personal notes
-Since not everyone might want to be a dancer like me, I want to throw out some notes that people usually get surprised about.
-
-- At a nightclub, I usually receive 1-2 compliments a night
-    - On rare occasions, I have heard up to 5-6
-- In some venues, other attendees will ask for a photo with me. I have never not obliged. I have never seen any of those photos.
-    - Recently, this has happened once every 3 times I go out
-    - When I was in Mexico, this happened about 4 times in a night
-    - Similarly, people may start recording me
-
-## Deep knowledge
-This section is intended to cover boring material, feel free to skip it.
-
-### People
+## People
 There are a lot of moving parts in a modern nightclub:
 
 - Inbound - People that get you into the nightclub
@@ -171,6 +159,7 @@ There are a lot of moving parts in a modern nightclub:
     - Servers - People who serve tables
     - Attendees - People attending the nightclub
 
+## Etiquette
 ### Bartender attention and tippping
 Getting a bartender's attention can be tricky. Here are some notes:
 
@@ -190,6 +179,16 @@ Cash and credit have their own set of trade-offs. I typically prefer cash since 
 - Credit card can be forgotten at the bar
 - Credit card can have minimum charge
 - Credit card can take long time to retrieve at last call
+
+## Personal notes
+Since not everyone might want to be a dancer like me, I want to throw out some notes that people usually get surprised about.
+
+- At a nightclub, I usually receive 1-2 compliments a night
+    - On rare occasions, I have heard up to 5-6
+- In some venues, other attendees will ask for a photo with me. I have never not obliged. I have never seen any of those photos.
+    - Recently, this has happened once every 3 times I go out
+    - When I was in Mexico, this happened about 4 times in a night
+    - Similarly, people may start recording me
 
 ## Further information
 ### Movies
