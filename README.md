@@ -20,7 +20,7 @@ I should state up-front that I'm a tall white male and these experiences have be
 - [Deep knowledge (e.g. staff, tipping)](#deep-knowledge)
 
 ## Behaviors
-Over time people pick up behaviors, either out of habit or observation. These are common ones that you will notice.
+Over time nightclub attendees pick up social behaviors, either out of habit or observation. These are common ones that you will notice.
 
 ### Salmon
 A salmon is someone who pushes past other people to get to the front of the crowd, only to immediately rush to the back with more pushing/shoving.
