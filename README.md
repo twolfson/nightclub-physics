@@ -10,8 +10,8 @@ I, Todd Wolfson, am a programmer by career and dancer (freeform) by hobby. I've 
 There's a lot of details that you slowly pick up over time. This is my brain dump of that information.
 
 ## Topics to cover
-- [ ] Appearances (e.g. goth, kandi kid)
 - [ ] Behaviors (e.g. salmon, circles, traps)
+- [ ] Subcultures/Appearances (e.g. goth, kandi kid)
 - [ ] Undergrounds and you (e.g. info lines, TBA/TBD)
 - [ ] City differences (e.g. smoking, distance)
 
