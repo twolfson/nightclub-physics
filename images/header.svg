@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="215"
+     inkscape:cx="214.35622"
      inkscape:cy="390.12593"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -142,5 +142,83 @@
        id="path3204"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:90.46483612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Anonymous Pro;-inkscape-font-specification:Anonymous Pro"
+       x="22.164673"
+       y="344.15106"
+       id="text3992"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3994"
+         x="22.164673"
+         y="344.15106"
+         style="font-family:Helvetica;-inkscape-font-specification:Helvetica">Nightclub</tspan><tspan
+         sodipodi:role="line"
+         x="22.164673"
+         y="457.23212"
+         id="tspan3996"
+         style="font-family:Helvetica;-inkscape-font-specification:Helvetica">Physics</tspan></text>
+    <g
+       id="g4024">
+      <path
+         transform="matrix(0.67420814,0,0,0.67420814,-1.466063,531.10879)"
+         d="m 271,453.5 c 0,30.09952 -24.40048,54.5 -54.5,54.5 -30.09952,0 -54.5,-24.40048 -54.5,-54.5 0,-30.09952 24.40048,-54.5 54.5,-54.5 30.09952,0 54.5,24.40048 54.5,54.5 z"
+         sodipodi:ry="54.5"
+         sodipodi:rx="54.5"
+         sodipodi:cy="453.5"
+         sodipodi:cx="216.5"
+         id="path3990"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3998"
+         d="m 144,872.29021 0,112.14394 z"
+         style="fill:none;stroke:#000000;stroke-width:0.92523545px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000"
+         d="m 144.5921,983.77008 -36.02266,62.39312 z"
+         style="fill:none;stroke:#000000;stroke-width:1.81579924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.81578815px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 144.4079,983.77008 36.02221,62.39312 z"
+         id="path4004"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4006"
+         d="m 103.16949,919.36218 77.66102,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.15714431px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194,529 0,-87 z"
+       id="path4008"
+       inkscape:connector-curvature="0"
+       transform="translate(0,252.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194,442 -12.95929,22.44615 z"
+       id="path4010"
+       inkscape:connector-curvature="0"
+       transform="translate(0,252.36218)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4012"
+       d="M 194.04071,694.36218 207,716.80833 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Musica;-inkscape-font-specification:Musica"
+       x="206"
+       y="776.36218"
+       id="text4014"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4016"
+         x="206"
+         y="776.36218">y</tspan></text>
   </g>
 </svg>
