@@ -39,7 +39,7 @@ I should note that you could also be standing/dancing in a through-way, which is
 ### Circles
 Dance circles are probably the most common occurrence you will see. These are when people clear out space and 1 or 2 persons dance in the center for a song or less.
 
-// TODO: Add graphic
+![Illustration of a circle](https://rawgit.com/twolfson/nightclub-physics/master/images/circle.svg)
 
 **How they are formed:**
 
