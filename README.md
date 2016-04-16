@@ -9,6 +9,8 @@ I, Todd Wolfson, am a programmer by career and dancer (freeform) by hobby. I've 
 
 There's a lot of details that you slowly pick up over time. This is my brain dump of that information.
 
+I should state up-front that I'm a white male and these experiences have been during my early to mid-20's. Your experiences/observations may vary and please read this with a grain of salt.
+
 ## Topics to cover
 - [ ] Behaviors (e.g. salmon, circles, traps)
 - [ ] Subcultures/Appearances (e.g. goth, kandi kid)
