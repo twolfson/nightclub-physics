@@ -17,6 +17,15 @@ I should state up-front that I'm a white male and these experiences have been du
 - [ ] Undergrounds and you (e.g. info lines, TBA/TBD)
 - [ ] City differences (e.g. smoking, distance)
 
+## Further information
+### Movies
+These movies should not be considered as rules/all-knowing but perspectives as what other people have experienced. Take them with a grain of salt.
+
+- [The Boys & Girls Guide to Getting Down](http://www.imdb.com/title/tt0464907/)
+    - Satirical movie that covers club life
+- [Human Traffic](http://www.imdb.com/title/tt0188674/)
+    - Covers club/rave scene in England in the 90's
+
 ## License
 Copyright (c) 2016 and beyond Todd Wolfson
 
