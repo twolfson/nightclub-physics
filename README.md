@@ -16,7 +16,7 @@ I should state up-front that I'm a tall white male and these experiences have be
 - [Undergrounds, raves, and after-hours (e.g. info lines, TBA/TBD)](#undergrounds-raves-and-after-hours)
 - [Subcultures/Appearances (e.g. goth, kandi kid)](#subculturesappearances)
 - [City differences (e.g. smoking, distance)](#city-differences)
-- [Staff (e.g. bouncer, bartender, performer)](#staff)
+- [People (e.g. bouncer, bartender, performer)](#people)
 - [Etiquette (e.g. bartender attention, tipping)](#etiquette)
 - [Personal notes (e.g. photos, compliments)](#personal-notes)
 
