@@ -145,7 +145,7 @@ There are a lot of moving parts in a modern nightclub:
     - Boards/Newsletters - Physical and electronic places to receive event information
     - Artists/DJs - People that will be playing or attending the event that have a high profile
 - Venue - People that help the nightclub machine move
-    - Bouncer - Determine who enters as well as mitigates events within the venue
+    - Bouncer - Determine who enters as well as mitigates problems within the venue
     - Entry clerk - Person who takes your entry fee
     - Coat clerk - Optional (requires coat check), person who stores your coat for a nominal fee
     - Bathroom clerk - Optional (typically depends on city), person who works the sink in the bathroom (e.g. offers soap and paper towels)
