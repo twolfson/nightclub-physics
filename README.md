@@ -1,7 +1,7 @@
 # Nightclub Physics
 Writings about nightclubs and rave mechanics by an experienced dancer
 
-![Illustration of a nightclub](images/header.png)
+![Illustration of a nightclub](images/header.svg)
 
 ## Background
 I, Todd Wolfson, am a programmer by career and dancer (freeform) by hobby. I've been dancing and going to nightclubs regularly since 2009. At the time of writing, I've been dancing on the US East Coast, US West Coast, Israel, Mexico, Japan, and the US Mid-west.
