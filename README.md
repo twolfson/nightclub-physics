@@ -11,7 +11,7 @@ At the time of writing, I've been dancing on the US East Coast, US West Coast, I
 
 There's a lot of details that you slowly pick up over time. This is my brain dump of that information.
 
-I should state up-front that I'm a white male and these experiences have been during my early to mid-20's. Your experiences/observations may vary and please read this with a grain of salt.
+I should state up-front that I'm a tall white male and these experiences have been during my early to mid-20's. Your experiences/observations may vary and please read this with a grain of salt.
 
 ## Topics to cover
 - [ ] Behaviors (e.g. salmon, circles, traps/finding space)
@@ -67,6 +67,26 @@ If you have already danced before, you can re-enter the circle but don't hog the
 **How they end:**
 
 When people stop re-entering the circle, there's usually a pause. Then everyone starts dancing and the circle collapses.
+
+### Finding space
+Finding space to dance can be finnicky. There are a few things that impact dancefloor density:
+
+- Time, usually every city as a "peak" when the club is most packed
+    - The dancefloor will be less packaged before/after peak
+    - For example, in Chicago peak is usually from midnight to 1:30AM. However, this can vary between venues (e.g. different closing times) and definitely varies between cities
+- Artist/DJ, crowds usually have a shared taste so people will go get drinks/smoke if they aren't digging a set
+- Location, typically the sides and back of a dancefloor are least crowded
+    - Unfortunately, these are also usually throughways so be aware and be sure to move for people passing through
+
+Due to my height, I can usually see openings through people or with a hop/jump.
+
+// TODO: Add image
+
+One nuance I want to mention is traps. These are almost open spaces that can be found in the middle of the dancefloor. Unfortunately, they can sometimes collapse quickly and you will be left with virtually no space.
+
+My rule of thumb for traps is only move to them if there's at least 1.5x the amount of space that I want.
+
+// TODO: Add image
 
 ## Further information
 ### Movies
