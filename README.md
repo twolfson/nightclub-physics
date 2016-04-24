@@ -82,6 +82,17 @@ My rule of thumb for traps is only move to them if there's at least 1.5x the amo
 
 ![Illustration of traps](https://rawgit.com/twolfson/nightclub-physics/master/images/trap.svg)
 
+### Navigating crowds
+Sometimes walking through a crowd isn't straightforward; there are choke points where some people are back to back. Thankfully, there are a few techniques to remedy this.
+
+If I'm in someone's line of sight and I'm trying to pass them, I will make my hand stick out in front of me like a compass. Typically, they will see this and make an opening.
+
+TODO: Add image
+
+If I'm out of someone's line of sight, I will gently place my hand on their shoulder as I pass by. This (1) subconciously tells their body to put weight on that foot and (2) prevents them from moving backwards in that direction. Sometimes I will use 1 hand on each shoulder but 1 shoulder is usually good enough.
+
+TODO: Add image
+
 ## Undergrounds, raves, and after-hours
 Some parties like to be exclusive. This can be for a variety of reasons (e.g. keeping attendance low, not allowed to serve after a specific time).
 
