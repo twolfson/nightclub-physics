@@ -87,7 +87,9 @@ Sometimes walking through a crowd isn't straightforward; there are choke points 
 
 If I'm in someone's line of sight and I'm trying to pass them, I will make my hand stick out in front of me like a compass. Typically, they will see this and make an opening.
 
-TODO: Add image
+![Illustration of passing in front of someone (part 1)]((https://rawgit.com/twolfson/nightclub-physics/master/images/navigation-in-front-1.svg)
+![Illustration of passing in front of someone (part 2)]((https://rawgit.com/twolfson/nightclub-physics/master/images/navigation-in-front-2.svg)
+![Illustration of passing in front of someone (part 3)]((https://rawgit.com/twolfson/nightclub-physics/master/images/navigation-in-front-3.svg)
 
 If I'm out of someone's line of sight, I will gently place my hand on their shoulder as I pass by. This (1) subconciously tells their body to put weight on that foot and (2) prevents them from moving backwards in that direction. Sometimes I will use 1 hand on each shoulder but 1 shoulder is usually good enough.
 
