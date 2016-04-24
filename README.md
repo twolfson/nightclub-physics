@@ -93,6 +93,8 @@ If I'm out of someone's line of sight, I will gently place my hand on their shou
 
 TODO: Add image
 
+Additionally, it's typically a good idea to follow someone else through a crowd (even a stranger). People will already be out of the way/prepared to move out of the way.
+
 ## Undergrounds, raves, and after-hours
 Some parties like to be exclusive. This can be for a variety of reasons (e.g. keeping attendance low, not allowed to serve after a specific time).
 
