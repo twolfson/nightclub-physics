@@ -110,7 +110,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="52.75"
+     inkscape:cx="-107.25"
      inkscape:cy="237.06587"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -436,5 +436,17 @@
            x="-179.08951"
            y="976.07043">me</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:83.19743347000000711px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#80b3ff;stroke-width:2.43701385999999998;stroke-miterlimit:4;stroke-dasharray:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+       x="4.480835"
+       y="915.87616"
+       id="text3067"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3069"
+         x="4.480835"
+         y="915.87616"
+         style="stroke-width:2.43701385999999998;stroke-miterlimit:4;stroke-dasharray:none;stroke:#80b3ff">1</tspan></text>
   </g>
 </svg>
