@@ -94,7 +94,12 @@ If I'm in someone's line of sight and I'm trying to pass them, I will make my ha
 
 If I'm out of someone's line of sight, I will gently place my hand on their far shoulder as I pass by. This (1) subconciously tells their body to put weight on that foot and (2) prevents them from moving backwards in that direction. Sometimes I will use both hands (1 on each shoulder) but 1 is usually good enough.
 
-TODO: Add image
+<!-- TODO: Move back branch to master-->
+![Illustration of passing in back of someone (part 1)](https://rawgit.com/twolfson/nightclub-physics/dev/navigating.crowds/images/navigation-back-1.svg)
+![Illustration of passing in back of someone (part 2)](https://rawgit.com/twolfson/nightclub-physics/dev/navigating.crowds/images/navigation-back-2.svg)
+![Illustration of passing in back of someone (part 3)](https://rawgit.com/twolfson/nightclub-physics/dev/navigating.crowds/images/navigation-back-3.svg)
+![Illustration of passing in back of someone (part 4)](https://rawgit.com/twolfson/nightclub-physics/dev/navigating.crowds/images/navigation-back-4.svg)
+![Illustration of passing in back of someone (part 5)](https://rawgit.com/twolfson/nightclub-physics/dev/navigating.crowds/images/navigation-back-5.svg)
 
 Additionally, it's typically a good idea to follow someone else through a crowd (even a stranger). People will already be out of the way/prepared to move out of the way.
 
